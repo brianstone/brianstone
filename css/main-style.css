@@ -1,0 +1,49 @@
+/*************************
+INDEX.JS
+*************************/
+.introduction {
+	text-align: center;
+}
+
+.introduction h1, h3 {
+	color: white;
+}
+
+html {
+	background: #2E353B;
+	color: #fff;
+}
+
+li {
+	list-style: none;
+}
+
+.navigation {
+	float: right;
+}
+
+.navigation a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.navigation li {
+	display: inline;
+	padding: 14px 16px;
+	/*color: #fff;*/
+}
+
+.social-icon {
+	height: 16px;
+  width: 16.5px;
+  background-size: cover;
+}
+
+.yourInitials {
+	text-align: center;
+	margin-top: 20px;
+}
+
+div a {
+	text-decoration: none;
+}
